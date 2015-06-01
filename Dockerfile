@@ -5,5 +5,5 @@ RUN apt-get update && apt-get install -y \
   php5 \
   libapache2-mod-php5 \
   curl
-RUN /etc/init.d/apache start
+RUN /etc/init.d/apache2 start
 CMD /bin/bash
