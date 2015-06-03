@@ -1,2 +1,2 @@
 # apachephp
-Apache2, php5, curl, cron
+Apache2 and php using debian:latest as source image
